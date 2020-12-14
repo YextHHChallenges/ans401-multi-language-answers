@@ -1,6 +1,7 @@
 {
   "$id": "job-6",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_associatedFAQs": [
       "faq-8",
@@ -46,6 +47,9 @@
     "yext/employmentType": "PART_TIME",
     "yext/hiringOrganization": "Turtlehead Tacos Restaurant",
     "yext/jobLocation": "15",
+    "yext/location": {
+      "existingLocation": "15"
+    },
     "yext/name": "Check-in Coordinator"
   },
   "entityType": "yext/job",

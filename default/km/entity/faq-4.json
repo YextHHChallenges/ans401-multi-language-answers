@@ -1,6 +1,7 @@
 {
   "$id": "faq-4",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
     "c_primaryCTA": {
@@ -15,5 +16,22 @@
     "yext/name": "Are you open on the weekends?"
   },
   "entityType": "yext/faq",
-  "labels": []
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Busca los restaurantes más cercanos",
+          "link": "answers.turtleheadtacos.com",
+          "linkType": "OTHER"
+        },
+        "yext/answer": "Si, todos nuestros restaurantes están abiertos durante los fines de semana! Para mayor información sobre los horarios, busca tu Turtlehead Tacos más cercano.",
+        "yext/keywords": [
+          "horarios"
+        ],
+        "yext/name": "Esta abierto los fines de semana?"
+      }
+    }
+  ]
 }

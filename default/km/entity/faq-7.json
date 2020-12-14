@@ -1,6 +1,7 @@
 {
   "$id": "faq-7",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
     "c_primaryCTA": {
@@ -16,5 +17,23 @@
     "yext/name": "What is the application process like?"
   },
   "entityType": "yext/faq",
-  "labels": []
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Envíe ahora su solicitud.",
+          "link": "careers.turtleheadtacos.com",
+          "linkType": "OTHER"
+        },
+        "yext/answer": "Nos esforzamos en realizar el proceso de contratación los más simple posible para cualquier posición en Turtlehead Tacos, sin importat que sea una posición en nuestra oficina central o en los equipos de los Restaurantes. Comenzará con una breve reunión con nuestro responsable de recursos humanos, seguido por una reunión de persona si posible, en su defecto por video. Tratamos de mantener de que el proceso dure solo 3 semanas en total.",
+        "yext/keywords": [
+          "carrera",
+          "trabajo"
+        ],
+        "yext/name": "Como funciona el proceso de postulación a un trabajos?"
+      }
+    }
+  ]
 }

@@ -9,10 +9,10 @@
     "richTextType": {
       "supportedFormat": [
         "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
         "ITALICS",
         "NUMBERED_LIST",
-        "HYPERLINK",
-        "BULLETED_LIST",
         "UNDERLINE"
       ]
     }

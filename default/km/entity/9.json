@@ -1,6 +1,7 @@
 {
   "$id": "9",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_primaryCTA": {
@@ -18,6 +19,13 @@
         "description": "Order two tacos and get free tots on Tuesdays.",
         "photo": {
           "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/-OGscdtgL2FHqupGLj0pIDSoJqLHAtzy5ER0W48rTVI/196x294.jpg",
+              "width": 196
+            }
+          ],
           "url": "http://a.mktgcdn.com/p-sandbox/-OGscdtgL2FHqupGLj0pIDSoJqLHAtzy5ER0W48rTVI/196x294.jpg",
           "width": 196
         },
@@ -28,6 +36,13 @@
         "description": "Buy one Champagne Margarita and get your second on the house. Cheers!",
         "photo": {
           "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/2gHieyTIXQg0xUsExIhqBauGAcfJ0HFNm9ZOTkW-_nk/196x294.jpg",
+              "width": 196
+            }
+          ],
           "url": "http://a.mktgcdn.com/p-sandbox/2gHieyTIXQg0xUsExIhqBauGAcfJ0HFNm9ZOTkW-_nk/196x294.jpg",
           "width": 196
         },
@@ -38,6 +53,13 @@
         "description": "Having a party? Let Turtlehead Tacos help! Call today to inquire about our Fiesta Package.",
         "photo": {
           "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/Bu4qxytV6lkBVLLJd5CK39Ox9hHkR-kw9NeybAignXU/196x294.jpg",
+              "width": 196
+            }
+          ],
           "url": "http://a.mktgcdn.com/p-sandbox/Bu4qxytV6lkBVLLJd5CK39Ox9hHkR-kw9NeybAignXU/196x294.jpg",
           "width": 196
         },
@@ -181,5 +203,11 @@
   "folder": "e53decf883a0425d84d064a8f7cc6685",
   "labels": [
     "c6c47cf214ef4e1e868474e2d59bb8a3"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {}
+    }
   ]
 }

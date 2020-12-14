@@ -1,6 +1,7 @@
 {
   "$id": "faq-2",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
     "c_primaryCTA": {
@@ -15,5 +16,22 @@
     "yext/name": "What are The Turtleheads?"
   },
   "entityType": "yext/faq",
-  "labels": []
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Más información",
+          "link": "www.turtleheadtacos.com/turtleheadfunzone",
+          "linkType": "OTHER"
+        },
+        "yext/answer": "\"The Turtleheads\"  son miembros de nuestro programa de lealtad! En Turtlehead Tacos, deseamos premiar a nuestros clientes habituales, esto lo hacemos a través del programa \"Turtlehead\".  Si vienes a nuestros negocios 4 veces, recibirás 19 tacos en tu quinta visita.",
+        "yext/keywords": [
+          "Lealtad"
+        ],
+        "yext/name": "Que son los \"The Turtleheads\"?"
+      }
+    }
+  ]
 }

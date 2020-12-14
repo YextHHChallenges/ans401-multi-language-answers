@@ -4,6 +4,6 @@
   "description": "",
   "displayName": "Primary CTA",
   "group": "GROUP1",
-  "localization": "PRIMARY_ONLY",
+  "localization": "LOCALE_SPECIFIC",
   "typeId": "yext/cta"
 }

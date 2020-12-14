@@ -1,6 +1,7 @@
 {
   "$id": "CS-1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_goal": "Save the turtles",
     "c_localNonProfits": [

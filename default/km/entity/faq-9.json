@@ -1,6 +1,7 @@
 {
   "$id": "faq-9",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
     "c_primaryCTA": {
@@ -15,5 +16,22 @@
     "yext/name": "Who is the executive chef at Turtlehead Tacos?"
   },
   "entityType": "yext/faq",
-  "labels": []
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Más información",
+          "link": "www.turtleheadtacos.com/team",
+          "linkType": "OTHER"
+        },
+        "yext/answer": "El ejecutivo el el mismo Matt Samani",
+        "yext/keywords": [
+          "Jefe"
+        ],
+        "yext/name": "Quien es el ejectivo de Turtlehead Tacos?"
+      }
+    }
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "$id": "faq-1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
     "c_primaryCTA": {
@@ -16,5 +17,22 @@
     "yext/name": "Do you sell gift cards?"
   },
   "entityType": "yext/faq",
-  "labels": []
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "c_primaryCTA": {
+          "label": "Compra ahora",
+          "link": "www.turtleheadtacos.com/giftcard",
+          "linkType": "OTHER"
+        },
+        "yext/answer": "Seguro! Que mejor regalo que una tarjeta de regalo de tacos? también, por un período de tiempo limitado, te ofrecemos un bonus de 5 $ para todas las compras que hagas con la tarjeta de regalo!",
+        "yext/keywords": [
+          "Tarjeta de regalo"
+        ],
+        "yext/name": "Vende tarjetas de regalo?"
+      }
+    }
+  ]
 }

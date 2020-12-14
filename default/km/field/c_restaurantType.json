@@ -3,6 +3,12 @@
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "description": "",
   "displayName": "Restaurant Type",
+  "displayNameTranslation": [
+    {
+      "localeCode": "es",
+      "value": "Tipo de Restaurante"
+    }
+  ],
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
   "type": {
@@ -10,11 +16,23 @@
       "option": [
         {
           "displayName": "Food Truck",
-          "textValue": "FOOD_TRUCK"
+          "textValue": "FOOD_TRUCK",
+          "displayNameTranslation": [
+            {
+              "localeCode": "es",
+              "value": "Camión de comida"
+            }
+          ]
         },
         {
           "displayName": "Dine-in Restaurant",
-          "textValue": "DINE-IN_RESTAURANT"
+          "textValue": "DINE-IN_RESTAURANT",
+          "displayNameTranslation": [
+            {
+              "localeCode": "es",
+              "value": "Restaurante para cenar"
+            }
+          ]
         }
       ]
     }

@@ -4,7 +4,7 @@
   "description": "",
   "displayName": "Active On Answers",
   "group": "NONE",
-  "localization": "PRIMARY_ONLY",
+  "localization": "OVERRIDABLE",
   "type": {
     "booleanType": {}
   },
