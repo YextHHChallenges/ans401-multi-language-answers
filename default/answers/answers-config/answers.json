@@ -142,16 +142,34 @@
       "source": "KNOWLEDGE_MANAGER"
     }
   },
-  "autocomplete": {
-    "disablePopularQueries": false,
-    "hardcodedPrompts": [
+  "querySuggestions": {
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
       "Restaurants near me",
       "Do you offer delivery?",
       "Events",
       "Do you sell gift cards?",
       "Community stories",
       "Open jobs"
-    ]
+    ],
+    "verticalPrompts": {
+      "faqs": [
+        "[[name]]"
+      ],
+      "events": [
+        "[[name]]"
+      ],
+      "communityStories": [
+        "[[name]]"
+      ],
+      "jobs": [
+        "open jobs in [[c_jobDepartment]]"
+      ],
+      "restaurants": [
+        "Restaurants near me",
+        "Restaurants in [[address.city]]"
+      ]
+    }
   },
   "synonyms": {
     "oneWay": [
