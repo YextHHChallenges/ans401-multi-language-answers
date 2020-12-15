@@ -23,6 +23,7 @@
       "locale": "es",
       "content": {
         "c_primaryCTA": {
+          "label": "Más información",
           "link": "careers.turtleheadtacos.com",
           "linkType": "OTHER"
         },

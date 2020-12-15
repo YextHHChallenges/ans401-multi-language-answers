@@ -24,7 +24,7 @@
       "locale": "es",
       "content": {
         "c_primaryCTA": {
-          "label": "Contactanos via email.",
+          "label": "Contactanos via email",
           "link": "private-events@turtleheadtacos.com",
           "linkType": "OTHER"
         },
