@@ -5,7 +5,7 @@
   "supportedLocales": [],
   "countryRestrictions": [],
   "verticals": {
-    "communityStories": {
+    "community_stories": {
       "entityTypes": [
         "ce_communityStory"
       ],
@@ -70,8 +70,8 @@
         "keywords": {
           "textSearch": true
         },
-        "name": {
-          "textSearch": true
+        "question": {
+          "semanticTextSearch": true
         }
       },
       "sortBys": [],
@@ -85,6 +85,25 @@
           }
         ]
       }
+    },
+    "help_articles": {
+      "entityTypes": [
+        "helpArticle"
+      ],
+      "name": "Help Articles",
+      "searchableFields": {
+        "body": {
+          "documentSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
     },
     "jobs": {
       "entityTypes": [
@@ -150,6 +169,7 @@
       "Events",
       "Do you sell gift cards?",
       "Community stories",
+      "Where to redeem gift cards",
       "Open jobs"
     ],
     "verticalPrompts": {
@@ -159,7 +179,10 @@
       "events": [
         "[[name]]"
       ],
-      "communityStories": [
+      "community_stories": [
+        "[[name]]"
+      ],
+      "help_articles": [
         "[[name]]"
       ],
       "jobs": [
