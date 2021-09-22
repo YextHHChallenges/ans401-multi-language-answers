@@ -9,14 +9,14 @@
       "link": "http://www.turtleheadtacos.com/giftcard",
       "linkType": "URL"
     },
-    "yext/answer": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
-    "yext/keywords": [
+    "answer": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
+    "keywords": [
       "gift card"
     ],
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com/giftcard",
-    "yext/name": "Do you sell gift cards?"
+    "landingPageUrl": "http://www.turtleheadtacos.com/giftcard",
+    "name": "Do you sell gift cards?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": [],
   "alternateProfiles": [
     {
@@ -27,11 +27,11 @@
           "link": "www.turtleheadtacos.com/giftcard",
           "linkType": "OTHER"
         },
-        "yext/answer": "Seguro! Que mejor regalo que una tarjeta de regalo de tacos? también, por un período de tiempo limitado, te ofrecemos un bonus de 5 $ para todas las compras que hagas con la tarjeta de regalo!",
-        "yext/keywords": [
+        "answer": "Seguro! Que mejor regalo que una tarjeta de regalo de tacos? también, por un período de tiempo limitado, te ofrecemos un bonus de 5 $ para todas las compras que hagas con la tarjeta de regalo!",
+        "keywords": [
           "Tarjeta de regalo"
         ],
-        "yext/name": "Vende tarjetas de regalo?"
+        "name": "Vende tarjetas de regalo?"
       }
     }
   ]

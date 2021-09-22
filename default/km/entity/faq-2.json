@@ -9,13 +9,13 @@
       "link": "http://www.turtleheadtacos.com/turtleheadfunzone",
       "linkType": "URL"
     },
-    "yext/answer": "The Turtleheads are members of our loyalty program! Turtlehead Tacos loves to reward our returning customers and we do this through the Turtleheads program. If you come to any Turtlehead Taco store 4 times, you will receive 19 tacos for free on your 5th visit.",
-    "yext/keywords": [
+    "answer": "The Turtleheads are members of our loyalty program! Turtlehead Tacos loves to reward our returning customers and we do this through the Turtleheads program. If you come to any Turtlehead Taco store 4 times, you will receive 19 tacos for free on your 5th visit.",
+    "keywords": [
       "loyalty"
     ],
-    "yext/name": "What are The Turtleheads?"
+    "name": "What are The Turtleheads?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": [],
   "alternateProfiles": [
     {
@@ -26,11 +26,11 @@
           "link": "www.turtleheadtacos.com/turtleheadfunzone",
           "linkType": "OTHER"
         },
-        "yext/answer": "\"The Turtleheads\"  son miembros de nuestro programa de lealtad! En Turtlehead Tacos, deseamos premiar a nuestros clientes habituales, esto lo hacemos a través del programa \"Turtlehead\".  Si vienes a nuestros negocios 4 veces, recibirás 19 tacos en tu quinta visita.",
-        "yext/keywords": [
+        "answer": "\"The Turtleheads\"  son miembros de nuestro programa de lealtad! En Turtlehead Tacos, deseamos premiar a nuestros clientes habituales, esto lo hacemos a través del programa \"Turtlehead\".  Si vienes a nuestros negocios 4 veces, recibirás 19 tacos en tu quinta visita.",
+        "keywords": [
           "Lealtad"
         ],
-        "yext/name": "Que son los \"The Turtleheads\"?"
+        "name": "Que son los \"The Turtleheads\"?"
       }
     }
   ]

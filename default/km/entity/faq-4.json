@@ -9,13 +9,13 @@
       "link": "http://answers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "yext/answer": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest Turtlehead Taco location.",
-    "yext/keywords": [
+    "answer": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest Turtlehead Taco location.",
+    "keywords": [
       "hours"
     ],
-    "yext/name": "Are you open on the weekends?"
+    "name": "Are you open on the weekends?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": [],
   "alternateProfiles": [
     {
@@ -26,11 +26,11 @@
           "link": "answers.turtleheadtacos.com",
           "linkType": "OTHER"
         },
-        "yext/answer": "Si, todos nuestros restaurantes están abiertos durante los fines de semana! Para mayor información sobre los horarios, busca tu Turtlehead Tacos más cercano.",
-        "yext/keywords": [
+        "answer": "Si, todos nuestros restaurantes están abiertos durante los fines de semana! Para mayor información sobre los horarios, busca tu Turtlehead Tacos más cercano.",
+        "keywords": [
           "horarios"
         ],
-        "yext/name": "Esta abierto los fines de semana?"
+        "name": "Esta abierto los fines de semana?"
       }
     }
   ]

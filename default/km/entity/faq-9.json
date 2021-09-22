@@ -9,13 +9,13 @@
       "link": "http://www.turtleheadtacos.com/team",
       "linkType": "URL"
     },
-    "yext/answer": "The executive chef is none other than Matt Samani.",
-    "yext/keywords": [
+    "answer": "The executive chef is none other than Matt Samani.",
+    "keywords": [
       "chef"
     ],
-    "yext/name": "Who is the executive chef at Turtlehead Tacos?"
+    "name": "Who is the executive chef at Turtlehead Tacos?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": [],
   "alternateProfiles": [
     {
@@ -26,11 +26,11 @@
           "link": "www.turtleheadtacos.com/team",
           "linkType": "OTHER"
         },
-        "yext/answer": "El ejecutivo el el mismo Matt Samani",
-        "yext/keywords": [
+        "answer": "El ejecutivo el el mismo Matt Samani",
+        "keywords": [
           "Jefe"
         ],
-        "yext/name": "Quien es el ejectivo de Turtlehead Tacos?"
+        "name": "Quien es el ejectivo de Turtlehead Tacos?"
       }
     }
   ]

@@ -9,14 +9,14 @@
       "link": "http://careers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "yext/answer": "We strive to make your application process as smooth as possible for any positions at Turtlehead Tacos - whether that\u0027s at corporate or on one of the Restaurant Teams. It will start with a quick conversation with a Recruiting manager, followed by in-person interviews where possible, otherwise video interviews. We try to keep the process quick so it should take less than 3 weeks from start to finish.",
-    "yext/keywords": [
+    "answer": "We strive to make your application process as smooth as possible for any positions at Turtlehead Tacos - whether that\u0027s at corporate or on one of the Restaurant Teams. It will start with a quick conversation with a Recruiting manager, followed by in-person interviews where possible, otherwise video interviews. We try to keep the process quick so it should take less than 3 weeks from start to finish.",
+    "keywords": [
       "career",
       "jobs"
     ],
-    "yext/name": "What is the application process like?"
+    "name": "What is the application process like?"
   },
-  "entityType": "yext/faq",
+  "entityType": "faq",
   "labels": [],
   "alternateProfiles": [
     {
@@ -27,12 +27,12 @@
           "link": "careers.turtleheadtacos.com",
           "linkType": "OTHER"
         },
-        "yext/answer": "Nos esforzamos en realizar el proceso de contratación los más simple posible para cualquier posición en Turtlehead Tacos, sin importat que sea una posición en nuestra oficina central o en los equipos de los Restaurantes. Comenzará con una breve reunión con nuestro responsable de recursos humanos, seguido por una reunión de persona si posible, en su defecto por video. Tratamos de mantener de que el proceso dure solo 3 semanas en total.",
-        "yext/keywords": [
+        "answer": "Nos esforzamos en realizar el proceso de contratación los más simple posible para cualquier posición en Turtlehead Tacos, sin importat que sea una posición en nuestra oficina central o en los equipos de los Restaurantes. Comenzará con una breve reunión con nuestro responsable de recursos humanos, seguido por una reunión de persona si posible, en su defecto por video. Tratamos de mantener de que el proceso dure solo 3 semanas en total.",
+        "keywords": [
           "carrera",
           "trabajo"
         ],
-        "yext/name": "Como funciona el proceso de postulación a un trabajos?"
+        "name": "Como funciona el proceso de postulación a un trabajos?"
       }
     }
   ]
