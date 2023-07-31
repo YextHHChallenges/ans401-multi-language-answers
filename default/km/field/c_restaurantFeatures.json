@@ -1,86 +1,86 @@
 {
-  "$id": "c_restaurantFeatures",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Restaurant Features",
-  "displayNameTranslation": [
-    {
-      "localeCode": "es",
-      "value": "Características del Restaurante"
-    }
-  ],
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "type": {
-    "listType": {
-      "typeId": "option",
-      "type": {
-        "optionType": {
-          "option": [
-            {
-              "displayName": "Outdoor Seating",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Asientos al abierto"
-                }
-              ],
-              "textValue": "OUTDOOR_SEATING"
-            },
-            {
-              "displayName": "Live Music",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Música del vico"
-                }
-              ],
-              "textValue": "LIVE_MUSIC"
-            },
-            {
-              "displayName": "Accepting Reservations",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Acepta reservas"
-                }
-              ],
-              "textValue": "ACCEPTING_RESERVATIONS"
-            },
-            {
-              "displayName": "Dog Friendly",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Permite mascotas"
-                }
-              ],
-              "textValue": "DOG_FRIENDLY"
-            },
-            {
-              "displayName": "Breakfast for Dinner",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Desayuno para la cena"
-                }
-              ],
-              "textValue": "BREAKFAST_FOR_DINNER"
-            },
-            {
-              "displayName": "Sells Merchandise",
-              "displayNameTranslation": [
-                {
-                  "localeCode": "es",
-                  "value": "Vende Mercancías"
-                }
-              ],
-              "textValue": "SELLS_MERCHANDISE"
-            }
-          ]
+    "$id": "c_restaurantFeatures",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "description": "",
+    "displayName": "Restaurant Features",
+    "displayNameTranslation": [
+        {
+            "localeCode": "es",
+            "value": "Caracter\u00edsticas del Restaurante"
         }
-      }
-    }
-  },
-  "typeId": "list"
+    ],
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+        "listType": {
+            "typeId": "option",
+            "type": {
+                "optionType": {
+                    "option": [
+                        {
+                            "displayName": "Outdoor Seating",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "Asientos al abierto"
+                                }
+                            ],
+                            "textValue": "OUTDOOR_SEATING"
+                        },
+                        {
+                            "displayName": "Live Music",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "M\u00fasica del vico"
+                                }
+                            ],
+                            "textValue": "LIVE_MUSIC"
+                        },
+                        {
+                            "displayName": "Accepting Reservations",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "Acepta reservas"
+                                }
+                            ],
+                            "textValue": "ACCEPTING_RESERVATIONS"
+                        },
+                        {
+                            "displayName": "Dog Friendly",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "Permite mascotas"
+                                }
+                            ],
+                            "textValue": "DOG_FRIENDLY"
+                        },
+                        {
+                            "displayName": "Breakfast for Dinner",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "Desayuno para la cena"
+                                }
+                            ],
+                            "textValue": "BREAKFAST_FOR_DINNER"
+                        },
+                        {
+                            "displayName": "Sells Merchandise",
+                            "displayNameTranslation": [
+                                {
+                                    "localeCode": "es",
+                                    "value": "Vende Mercanc\u00edas"
+                                }
+                            ],
+                            "textValue": "SELLS_MERCHANDISE"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "typeId": "list"
 }

@@ -1,27 +1,27 @@
 {
-  "$id": "c_promotingEvents",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Promoting Events",
-  "displayNameTranslation": [
-    {
-      "localeCode": "es",
-      "value": "Promoción de eventos"
-    }
-  ],
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "type": {
-    "listType": {
-      "typeId": "entityReference",
-      "type": {
-        "entityReferenceType": {
-          "supportedEntityTypeIds": [
-            "event"
-          ]
+    "$id": "c_promotingEvents",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "description": "",
+    "displayName": "Promoting Events",
+    "displayNameTranslation": [
+        {
+            "localeCode": "es",
+            "value": "Promoci\u00f3n de eventos"
         }
-      }
-    }
-  },
-  "typeId": "list"
+    ],
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+        "listType": {
+            "typeId": "entityReference",
+            "type": {
+                "entityReferenceType": {
+                    "supportedEntityTypeIds": [
+                        "event"
+                    ]
+                }
+            }
+        }
+    },
+    "typeId": "list"
 }

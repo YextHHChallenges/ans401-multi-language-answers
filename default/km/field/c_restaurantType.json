@@ -1,41 +1,41 @@
 {
-  "$id": "c_restaurantType",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Restaurant Type",
-  "displayNameTranslation": [
-    {
-      "localeCode": "es",
-      "value": "Tipo de Restaurante"
-    }
-  ],
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "type": {
-    "optionType": {
-      "option": [
+    "$id": "c_restaurantType",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "description": "",
+    "displayName": "Restaurant Type",
+    "displayNameTranslation": [
         {
-          "displayName": "Food Truck",
-          "textValue": "FOOD_TRUCK",
-          "displayNameTranslation": [
-            {
-              "localeCode": "es",
-              "value": "Camión de comida"
-            }
-          ]
-        },
-        {
-          "displayName": "Dine-in Restaurant",
-          "textValue": "DINE-IN_RESTAURANT",
-          "displayNameTranslation": [
-            {
-              "localeCode": "es",
-              "value": "Restaurante para cenar"
-            }
-          ]
+            "localeCode": "es",
+            "value": "Tipo de Restaurante"
         }
-      ]
-    }
-  },
-  "typeId": "option"
+    ],
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+        "optionType": {
+            "option": [
+                {
+                    "displayName": "Food Truck",
+                    "textValue": "FOOD_TRUCK",
+                    "displayNameTranslation": [
+                        {
+                            "localeCode": "es",
+                            "value": "Cami\u00f3n de comida"
+                        }
+                    ]
+                },
+                {
+                    "displayName": "Dine-in Restaurant",
+                    "textValue": "DINE-IN_RESTAURANT",
+                    "displayNameTranslation": [
+                        {
+                            "localeCode": "es",
+                            "value": "Restaurante para cenar"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "typeId": "option"
 }
