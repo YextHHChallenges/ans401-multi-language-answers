@@ -4,38 +4,49 @@
   "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big, and get stuff done. We want to help employees grow in their careers.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "c_primaryCTA": {
       "label": "Apply Now",
       "link": "http://careers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "answer": "We offer our employees a wide range of benefits. In addition, we have a company culture of learn fast, think big and get stuff done. We want to help employees grow in their careers.",
     "keywords": [
       "perks",
       "career",
       "jobs"
     ],
-    "name": "What are the perks of working at Turtlehead Tacos?"
+    "question": "What are the perks of working here?"
   },
   "entityType": "faq",
-  "labels": [],
-  "alternateProfiles": [
-    {
-      "locale": "es",
-      "content": {
-        "c_primaryCTA": {
-          "label": "Envíe ahora su solicitud",
-          "link": "careers.turtleheadtacos.com",
-          "linkType": "OTHER"
-        },
-        "answer": "Ofrecemos a nuestros empleados una amplia variedad de beneficios. Además, tenemos una cultura de empresa que facilita el rápido aprendizaje, pensar en grande y llevar a termino los objetivos. Querémos que nuestrso empleados crezcan profesionalmente.",
-        "keywords": [
-          "beneficios",
-          "carrera",
-          "trabajo"
-        ],
-        "name": "Cuales son los beneficios de trabajar en Turtlehead Tacos?"
-      }
-    }
-  ]
+  "labels": []
 }

@@ -4,34 +4,47 @@
   "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest location.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "c_primaryCTA": {
       "label": "Search for Nearby Restaurants",
       "link": "http://answers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "answer": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest Turtlehead Taco location.",
     "keywords": [
       "hours"
     ],
-    "name": "Are you open on the weekends?"
+    "question": "Are you open on the weekends?"
   },
   "entityType": "faq",
-  "labels": [],
-  "alternateProfiles": [
-    {
-      "locale": "es",
-      "content": {
-        "c_primaryCTA": {
-          "label": "Busca los restaurantes más cercanos",
-          "link": "answers.turtleheadtacos.com",
-          "linkType": "OTHER"
-        },
-        "answer": "Si, todos nuestros restaurantes están abiertos durante los fines de semana! Para mayor información sobre los horarios, busca tu Turtlehead Tacos más cercano.",
-        "keywords": [
-          "horarios"
-        ],
-        "name": "Esta abierto los fines de semana?"
-      }
-    }
-  ]
+  "labels": []
 }

@@ -4,35 +4,48 @@
   "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "c_primaryCTA": {
       "label": "Buy Now",
       "link": "http://www.turtleheadtacos.com/giftcard",
       "linkType": "URL"
     },
-    "answer": "Absolutely! What better gift is there than the gift of tacos? Also for a limited time, we are offering a $5 Bonus Card to all Gift Card Purchases!",
     "keywords": [
       "gift card"
     ],
     "landingPageUrl": "http://www.turtleheadtacos.com/giftcard",
-    "name": "Do you sell gift cards?"
+    "question": "Do you sell gift cards?"
   },
   "entityType": "faq",
-  "labels": [],
-  "alternateProfiles": [
-    {
-      "locale": "es",
-      "content": {
-        "c_primaryCTA": {
-          "label": "Compra ahora",
-          "link": "www.turtleheadtacos.com/giftcard",
-          "linkType": "OTHER"
-        },
-        "answer": "Seguro! Que mejor regalo que una tarjeta de regalo de tacos? también, por un período de tiempo limitado, te ofrecemos un bonus de 5 $ para todas las compras que hagas con la tarjeta de regalo!",
-        "keywords": [
-          "Tarjeta de regalo"
-        ],
-        "name": "Vende tarjetas de regalo?"
-      }
-    }
-  ]
+  "labels": []
 }

@@ -4,36 +4,48 @@
   "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "While you are welcome to do so, we do not require a cover letter for any positions. If you feel that it would help to inform any Recruiting Managers about why you are uniquely qualified for the position, feel free to include and we promise to you that we will read it.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "c_primaryCTA": {
       "label": "Apply Now",
       "link": "http://careers.turtleheadtacos.com",
       "linkType": "URL"
     },
-    "answer": "While you are welcome to do so, we do not require a cover letter for any positions. If you feel that it would help to inform any Recruiting Managers about why you are uniquely qualified for the position, feel free to include and we promise to you that we will read it.",
     "keywords": [
       "career",
       "jobs"
     ],
-    "name": "Do I need to submit a cover letter?"
+    "question": "Do I need to submit a cover letter?"
   },
   "entityType": "faq",
-  "labels": [],
-  "alternateProfiles": [
-    {
-      "locale": "es",
-      "content": {
-        "c_primaryCTA": {
-          "label": "Más información",
-          "link": "careers.turtleheadtacos.com",
-          "linkType": "OTHER"
-        },
-        "answer": "Apreciamos si lo haces, de cualquier manera no es necesario enviar una carta de presentación para ninguna posición. Si sientes que deseas comunicar al responsable de recursos humanos sobre ti y que es lo que te diferencia para esta posición, sientete libre de enviar la carta y te prometemos que la leeremos.",
-        "keywords": [
-          "carrera",
-          "trabajo"
-        ],
-        "name": "Debo enviar una carta de presentación?"
-      }
-    }
-  ]
+  "labels": []
 }

@@ -4,38 +4,49 @@
   "primaryLocale": "en",
   "content": {
     "c_activeOnAnswers": true,
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We\u0027d love to help with your next big event, whether it\u0027s in-restaurant dining or a catering event! We host birthday parties, anniversaries, engagements, rehearsal dinners, family get-togethers and more! For catering, we can deliver bulk orders to you just in time for the event, along with all the platters and heating accessories. Contact our private events department for assistance.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "c_primaryCTA": {
       "label": "Email Us",
       "link": "private-events@turtleheadtacos.com",
       "linkType": "EMAIL"
     },
-    "answer": "We\u0027d love to help with your next big event, whether it\u0027s in-restaurant dining or a catering event! We host birthday parties, anniversaries, engagements, rehearsal dinners, family get-togethers and more! For catering, we can deliver bulk orders to you just in time for the event, along with all the platters and heating accessories. Contact our private events department for assistance.",
     "keywords": [
       "catering",
       "private events",
       "big groups"
     ],
-    "name": "Who do I contact for large party reservations or catering?"
+    "question": "Who do I contact for large party reservations or catering?"
   },
   "entityType": "faq",
-  "labels": [],
-  "alternateProfiles": [
-    {
-      "locale": "es",
-      "content": {
-        "c_primaryCTA": {
-          "label": "Contactanos via email",
-          "link": "private-events@turtleheadtacos.com",
-          "linkType": "OTHER"
-        },
-        "answer": "Estaremos más que contentos de ayudarte con tu próximo gran evento, sin importar que sea en nuestros restaurantes o en un evento con servicio de catring! Celebramos cumpleaños, aniversarios, fiestas de compromiso, fiestas familiares y más! Para el servicio de catering, podemos transportar todo pedido junto con lo necesario para el evento. Contantanos para mayore información sobre los eventos privados.",
-        "keywords": [
-          "servicio de catering",
-          "eventos privados",
-          "grandes grupos."
-        ],
-        "name": "A quien debo contactar para una gran fiesta o un servicio de catering?"
-      }
-    }
-  ]
+  "labels": []
 }
