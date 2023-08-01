@@ -92,7 +92,7 @@
       ],
       "name": "Help Articles",
       "searchableFields": {
-        "body": {
+        "bodyV2": {
           "documentSearch": true
         },
         "builtin.entityType": {
